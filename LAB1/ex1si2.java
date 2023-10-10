@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class random{
+public class ex1si2{
 
     public static void main(String[] args)
     {

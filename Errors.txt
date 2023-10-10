@@ -1,0 +1,2 @@
+Type 500 Error: java.lang.ArithmeticException: / by zero
+Type 500 Error: java.lang.ArrayIndexOutOfBoundsException: Index 10 out of bounds for length 5

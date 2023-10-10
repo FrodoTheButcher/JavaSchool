@@ -35,7 +35,7 @@ public class ex3 {
             }
             if(question.compareTo("c")==0){
                 System.out.print(Sum(x));
-            }
+            }            
         }
     }
 }
