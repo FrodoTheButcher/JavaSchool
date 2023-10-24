@@ -1,0 +1,4 @@
+setbounds-> aranjare in pagina + marime
+addActionListener-> va raspunde dupa responsurile instantei din constructor
+setFocusable->sterge  border focus de la text
+frame.add => adaugam componenta
